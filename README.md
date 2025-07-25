@@ -25,17 +25,17 @@ This repository contains the codebase for an interactive **Multiple Disease Pred
 
 
 ```
-├── app.py # Streamlit app main file
+├── app.py
 ├── diabetes_model.pkl # Trained Diabetes model
 ├── heart_model.pkl # Trained Heart Disease model
 ├── data/
-│ ├── diabetes.csv # Dataset for diabetes
-│ └── heart.csv # Dataset for heart disease
+│ ├── diabetes.csv 
+│ └── heart.csv 
 ├── notebooks/
 │ ├── diabetes_training.ipynb# Model training notebook for diabetes
 │ └── heart_training.ipynb # Model training notebook for heart
-├── requirements.txt # Dependencies list
-└── README.md # Project documentation
+├── requirements.txt 
+└── README.md 
 ```
 
 ## 🧠 Model Overview
