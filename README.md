@@ -23,6 +23,8 @@ This repository contains the codebase for an interactive **Multiple Disease Pred
 
 ## 📂 Project Structure
 
+
+```
 ├── app.py # Streamlit app main file
 ├── diabetes_model.pkl # Trained Diabetes model
 ├── heart_model.pkl # Trained Heart Disease model
@@ -34,6 +36,7 @@ This repository contains the codebase for an interactive **Multiple Disease Pred
 │ └── heart_training.ipynb # Model training notebook for heart
 ├── requirements.txt # Dependencies list
 └── README.md # Project documentation
+```
 
 ## 🧠 Model Overview
 Algorithms Used: Logistic Regression, Random Forest, etc.
