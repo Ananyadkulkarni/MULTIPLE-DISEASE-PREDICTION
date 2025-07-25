@@ -34,7 +34,8 @@ This repository contains the codebase for an interactive **Multiple Disease Pred
 │ └── heart_training.ipynb # Model training notebook for heart
 ├── requirements.txt # Dependencies list
 └── README.md # Project documentation
-🧠 Model Overview
+
+## 🧠 Model Overview
 Algorithms Used: Logistic Regression, Random Forest, etc.
 
 Evaluation Metrics: Accuracy, Precision, Recall, Confusion Matrix
